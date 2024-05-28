@@ -1,4 +1,4 @@
-# Stream Sampling and Estimation with BlackBox
+# Real-Time Data Stream Analysis Using Bloom Filter, Flajolet-Martin, and Reservoir Sampling Algorithms
 
 This repository contains scripts implementing various stream sampling and estimation techniques using the BlackBox library. The provided approaches utilize advanced algorithms to efficiently process large-scale data streams and perform tasks such as frequency estimation, distinct count estimation, and random sampling.
 
